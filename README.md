@@ -1,8 +1,7 @@
 Hi! Welcome to my account 🥸
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/BLeemaster/BLeemaster/assets/125151609/d609fd68-e614-41e6-a249-68bc5ee2e910)
-">
-  <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/BLeemaster/BLeemaster/assets/125151609/a1df4423-57f2-44b1-b833-b8971cf4a63d)
-">
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/801945829190402061/1148702939813269504/IMG_0108.gif?width=671&height=671">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/801945829190402061/1148702939813269504/IMG_0108.gif?width=671&height=671">
+ <img alt="YOUR-ALT-TEXT" src="https://media.discordapp.net/attachments/801945829190402061/1148702939813269504/IMG_0108.gif?width=671&height=671">
 </picture>
